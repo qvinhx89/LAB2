@@ -4,7 +4,7 @@ This project follows the requirements from **Lab 2: JSX, TypeScript** (MSc. Tr�
 
 ## 📁 Project Structure
 
-
+```
 src/
 ├── jsx-runtime.ts     # Custom JSX runtime: VNode, createElement, fragments, rendering, hooks
 ├── counter.tsx        # Example stateful counter component
@@ -15,4 +15,4 @@ src/
 ├── dashboard.tsx      # Dashboard page combining everything together
 ├── main.tsx           # App entry point that mounts the dashboard
 └── styles.css         # Minimal styling used across the demo
-
+```
